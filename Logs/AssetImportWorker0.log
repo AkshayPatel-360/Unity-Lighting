@@ -319,3 +319,39 @@ Received Import Request.
   path: Assets/LowPolyDungeonsLite/Prefabs/Box_02.prefab
   artifactKey: Guid(e37d55d9adae8724c9dcf1dff5b67578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/LowPolyDungeonsLite/Prefabs/Box_02.prefab using Guid(e37d55d9adae8724c9dcf1dff5b67578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7483b403295bafe2bf6e0fcb095a47e2') in 0.013068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2050.362907 seconds.
+  path: Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_BG.mat
+  artifactKey: Guid(64ba6c72e3ef1e549a99ffb902487f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_BG.mat using Guid(64ba6c72e3ef1e549a99ffb902487f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57331e6d788f12cc31034744f746c801') in 0.076855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_Light.mat
+  artifactKey: Guid(2f12fcec4b3dcc0489472b3a9cfa44c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_Light.mat using Guid(2f12fcec4b3dcc0489472b3a9cfa44c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0dede8014ab2634304a95967f9ca40e') in 0.011269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_MAIN.mat
+  artifactKey: Guid(18f63ff904099034daf971dac5b32582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_MAIN.mat using Guid(18f63ff904099034daf971dac5b32582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44efd90fd2cfba9a048edbc91666f42c') in 0.011794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5546.113130 seconds.
+  path: Assets/Resources/Material
+  artifactKey: Guid(48b06b362003ed04a89da87b9153e711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material using Guid(48b06b362003ed04a89da87b9153e711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a778db6490f3a5dac9218e1426e545') in 0.007810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 104.254049 seconds.
+  path: Assets/Resources/material
+  artifactKey: Guid(48b06b362003ed04a89da87b9153e711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/material using Guid(48b06b362003ed04a89da87b9153e711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8703b9b3c3114f01af58be40523cfc8c') in 0.007088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.846008 seconds.
+  path: Assets/Resources/Material/Glow_1.mat
+  artifactKey: Guid(df55c7e5d60ae6d43ac1b4e623b0cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/Glow_1.mat using Guid(df55c7e5d60ae6d43ac1b4e623b0cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956736183813c9695d7874cd6890d423') in 0.037686 seconds 

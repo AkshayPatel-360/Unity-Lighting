@@ -355,3 +355,40 @@ Received Import Request.
   path: Assets/Resources/Material/Glow_1.mat
   artifactKey: Guid(df55c7e5d60ae6d43ac1b4e623b0cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Material/Glow_1.mat using Guid(df55c7e5d60ae6d43ac1b4e623b0cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956736183813c9695d7874cd6890d423') in 0.037686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6184.415776 seconds.
+  path: Assets/Resources/Material/Glow_green.mat
+  artifactKey: Guid(946137c467e992a428c1af6c19d62ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/Glow_green.mat using Guid(946137c467e992a428c1af6c19d62ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0b58259069d378752d4082e6dd6b49') in 0.032820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 179.267386 seconds.
+  path: Assets/Resources/Material/New Material.mat
+  artifactKey: Guid(d87df650c251ab444a587354efb9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/New Material.mat using Guid(d87df650c251ab444a587354efb9f3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37068a3e2a27435efeaf4e9ef316fa6f') in 0.010552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 117.201807 seconds.
+  path: Assets/Resources/Material/Dark.mat
+  artifactKey: Guid(4ef732d3e9ae7ab43939d44ad410788d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/Dark.mat using Guid(4ef732d3e9ae7ab43939d44ad410788d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2695ec3c4a41402f45e53ce2169503b') in 0.011418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12663.481376 seconds.
+  path: Assets/Resources/Material/Dark.mat
+  artifactKey: Guid(4ef732d3e9ae7ab43939d44ad410788d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/Dark.mat using Guid(4ef732d3e9ae7ab43939d44ad410788d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974adb411d3a5ca818c20d79b3e3e42d') in 0.032701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Resources/Material/Glow_green.mat
+  artifactKey: Guid(946137c467e992a428c1af6c19d62ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/Glow_green.mat using Guid(946137c467e992a428c1af6c19d62ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87f66ddcc9f378c68015f91ac644e09') in 0.013024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Resources/Material/Glow_1.mat
+  artifactKey: Guid(df55c7e5d60ae6d43ac1b4e623b0cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material/Glow_1.mat using Guid(df55c7e5d60ae6d43ac1b4e623b0cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac02618051790040d97720dcc603811') in 0.010645 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

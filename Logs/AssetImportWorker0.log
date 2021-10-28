@@ -139,3 +139,4 @@ Received Import Request.
   path: Assets/Resources/Prefabs/Sphere.prefab
   artifactKey: Guid(f0b41ad2164c5d34789df05084fb9e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Prefabs/Sphere.prefab using Guid(f0b41ad2164c5d34789df05084fb9e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf97becd12fff3f16e8f21bd149a716a') in 0.088082 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
